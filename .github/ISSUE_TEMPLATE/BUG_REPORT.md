@@ -12,7 +12,6 @@ labels: bug
 - insert step 3 to reproduce the bug
 
 [if applicable, insert video here]
-
 [if applicable, insert screenshots here]
 
 ### Error Message
