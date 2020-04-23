@@ -20,6 +20,6 @@ give a brief summary of the feature request here
 
 ---
 
-**module:** insert custom module name here
+**module:** insert_custom_module_name_here
 
-**version:** insert odoo version here
+**version:** insert_odoo_version_here
