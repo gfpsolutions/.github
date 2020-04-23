@@ -7,7 +7,6 @@ labels: bug
 ---
 
 ### Steps To Reproduce
-
 - insert step 1 to reproduce the bug
 - insert step 2 to reproduce the bug
 - insert step 3 to reproduce the bug
@@ -17,17 +16,14 @@ labels: bug
 [if applicable, insert screenshots here]
 
 ### Error Message
-
-```
-    if applicable, insert the error message here
+```sh
+if applicable, insert the error message here
 ```
 
 ### Current Behavior
-
 explain current behavior here
 
 ### Expected Behavior
-
 explain expected behavior here
 
 ---
