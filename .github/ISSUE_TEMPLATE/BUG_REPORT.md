@@ -11,11 +11,10 @@ labels: bug
 - insert step 2 to reproduce the bug
 - insert step 3 to reproduce the bug
 
-[if applicable, insert video here]
-[if applicable, insert screenshots here]
+[if applicable, insert video / screenshots here]
 
 ### Error Message
-```sh
+```
 if applicable, insert the error message here
 ```
 

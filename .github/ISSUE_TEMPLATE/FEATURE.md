@@ -10,13 +10,11 @@ labels: enhancement
 explain any context or helpful background information about the feature request here
 
 ### Requirement
-give a brief summary of the feature request here
-- [ ] insert itemized requirement here
-- [ ] insert itemized requirement here
-- [ ] insert itemized requirement here
+- [ ] insert detailed explanation of requirement 1 here
+- [ ] insert detailed explanation of requirement 2 here
+- [ ] insert detailed explanation of requirement 3 here
 
-[if applicable, insert videos here]  
-[if applicable, insert screenshots here]
+[if applicable, insert videos / screenshots here]
 
 ---
 
