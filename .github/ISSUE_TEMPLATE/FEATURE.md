@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: Create an issue with GFP's feature request template
-title: "[clientcode] concise_description_of_issue"
+title: "[client_code] concise_description_of_issue"
 labels: enhancement
 
 ---

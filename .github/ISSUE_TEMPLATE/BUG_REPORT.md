@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Create an issue with GFP's bug report template
-title: "[clientcode] concise_description_of_issue"
+title: "[client_code] concise_description_of_issue"
 labels: bug
 
 ---
