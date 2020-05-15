@@ -5,25 +5,25 @@ title: "[client_code] concise_description_of_issue"
 labels: bug
 ---
 
-### Steps To Reproduce
+## Steps To Reproduce
+
+if applicable, insert video / screenshots here
 
 - insert step 1 to reproduce the bug
 - insert step 2 to reproduce the bug
 - insert step 3 to reproduce the bug
 
-[if applicable, insert video / screenshots here]
-
-### Error Message
+## Error Message
 
 ```
 if applicable, insert the error message here
 ```
 
-### Current Behavior
+## Current Behavior
 
 explain current behavior here
 
-### Expected Behavior
+## Expected Behavior
 
 explain expected behavior here
 

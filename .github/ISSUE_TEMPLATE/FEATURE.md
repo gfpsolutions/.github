@@ -5,13 +5,13 @@ title: "[client_code] concise_description_of_issue"
 labels: enhancement
 ---
 
-### Context
+## Context
 
 explain any context or helpful background information about the feature request here
 
-### Requirement
+## Requirement
 
-[if applicable, insert videos / screenshots here]
+if applicable, insert videos / screenshots here
 
 - [ ] insert detailed explanation of requirement 1 here
 - [ ] insert detailed explanation of requirement 2 here
