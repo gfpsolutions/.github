@@ -7,25 +7,25 @@ labels: bug
 
 ## Steps To Reproduce
 
-if applicable, insert video / screenshots here
+insert_videos_and_screenshots_here
 
-- insert step 1 to reproduce the bug
-- insert step 2 to reproduce the bug
-- insert step 3 to reproduce the bug
+- insert_step_1_to_reproduce_the_bug
+- insert_step_2_to_reproduce_the_bug
+- insert_step_3_to_reproduce_the_bug
 
 ## Error Message
 
 ```
-if applicable, insert the error message here
+insert_error_logs_here
 ```
 
 ## Current Behavior
 
-explain current behavior here
+explain_current_behavior_here
 
 ## Expected Behavior
 
-explain expected behavior here
+explain_expected_behavior_here
 
 ---
 

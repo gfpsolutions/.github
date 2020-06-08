@@ -7,15 +7,15 @@ labels: enhancement
 
 ## Context
 
-explain any context or helpful background information about the feature request here
+explain_any_context_or_helpful_background_information_about_the_feature_request_here
 
 ## Requirement
 
-if applicable, insert videos / screenshots here
+insert_videos_and_screenshots_here
 
-- [ ] insert detailed explanation of requirement 1 here
-- [ ] insert detailed explanation of requirement 2 here
-- [ ] insert detailed explanation of requirement 3 here
+- [ ] insert_detailed_explanation_of_requirement_1_here
+- [ ] insert_detailed_explanation_of_requirement_2_here
+- [ ] insert_detailed_explanation_of_requirement_3_here
 
 ---
 
