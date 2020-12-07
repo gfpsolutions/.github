@@ -5,11 +5,11 @@ title: "[client_code] concise_description_of_issue"
 labels: enhancement
 ---
 
-## Context
+## Purpose
 
-explain_any_context_or_helpful_background_information_about_the_feature_request_here
+explain_the_purpose_behind_the_new_feature_here
 
-## Requirement
+## Requirement Details
 
 insert_videos_and_screenshots_here
 
