@@ -28,7 +28,7 @@ explain_current_behavior_here
 explain_expected_behavior_here
 
 ## Test Cases
-**ATTENTION:** DO NOT OPEN A PR UNLESS THE DEVELOPMENT PASSES ALL OF THE TEST CASES DEFINED BELOW
+**ATTENTION:** DO NOT OPEN A PR UNLESS ALL TEST CASES DEFINED BELOW ARE SATISIFED
 
 - [ ] insert_test_case_1
 - [ ] insert_test_case_2
