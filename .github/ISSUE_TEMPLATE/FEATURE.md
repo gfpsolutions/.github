@@ -24,6 +24,11 @@ insert_videos_and_screenshots_here
 - [ ] insert_test_case_2
 - [ ] insert_test_case_3
 
+## Configuration Details
+
+insert_special_configuration_details_needed_to_test
+
+
 ---
 
 **module:** insert_custom_module_name_here
