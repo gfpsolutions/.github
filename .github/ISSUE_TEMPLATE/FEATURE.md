@@ -26,7 +26,7 @@ insert_videos_and_screenshots_here
 
 ## Configuration Details
 
-insert_special_configuration_details_needed_to_test
+insert_any_special_configuration_details_needed_to_test
 
 
 ---
