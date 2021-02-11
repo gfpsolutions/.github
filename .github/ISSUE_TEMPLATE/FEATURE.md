@@ -20,9 +20,20 @@ insert_videos_and_screenshots_here
 ## Test Cases
 **ATTENTION TO DEVELOPER:** DO NOT OPEN A PR UNLESS ALL TEST CASES ARE SATISIFED
 
-- [ ] insert_test_case_1
-- [ ] insert_test_case_2
-- [ ] insert_test_case_3
+#### Test Case 1
+- test_case_1_step_1
+- test_case_1_step_2
+- test_case_1_step_3
+
+#### Test Case 2
+- test_case_2_step_1
+- test_case_2_step_2
+- test_case_2_step_3
+
+#### Test Case 3
+- test_case_3_step_1
+- test_case_3_step_2
+- test_case_3_step_3
 
 ## Configuration Details
 
