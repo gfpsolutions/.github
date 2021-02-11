@@ -18,7 +18,7 @@ insert_videos_and_screenshots_here
 - [ ] insert_detailed_explanation_of_requirement_3_here
 
 ## Test Cases
-**ATTENTION TO DEVELOPER:** DO NOT OPEN A PR UNLESS ALL TEST CASES ARE SATISIFED
+The following test cases must be satisfied:
 
 #### Test Case 1
 - test_case_1_step_1
